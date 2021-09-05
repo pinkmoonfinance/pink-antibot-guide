@@ -55,7 +55,11 @@ contract MyToken {
 }
 ```
 
-3. (Optional) If you want more control over how `PinkAntiBot` is enabled or disabled, you can do it inside your contract instead of relying on `PinkAntiBot` contract's configuration:
+3. Visit https://www.pinksale.finance/#/antibot, enable Pink Anti-Bot (Pay 1 BNB fee), and update your settings.
+
+![alt text](https://github.com/pinkmoonfinance/pink-antibot-guide/blob/main/pink-anti-bot-dashboard.png)
+
+4. (Optional): If you want more control over how `PinkAntiBot` is enabled or disabled, you can do it inside your contract instead of relying on `PinkAntiBot` contract's configuration:
 
 
 ```diff
@@ -103,7 +107,3 @@ contract MyToken {
   }
 }
 ```
-
-4: Visit https://www.pinksale.finance/#/antibot, enable Pink Anti-Bot (Pay 1 BNB fee), and update your settings.
-
-Optional: If you want more control over how PinkAntiBot...
