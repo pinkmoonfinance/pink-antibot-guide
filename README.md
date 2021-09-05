@@ -103,3 +103,7 @@ contract MyToken {
   }
 }
 ```
+
+4: Visit https://www.pinksale.finance/#/antibot, enable Pink Anti-Bot (Pay 1 BNB fee), and update your settings.
+
+Optional: If you want more control over how PinkAntiBot...
