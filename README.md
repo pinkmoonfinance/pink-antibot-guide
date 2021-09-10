@@ -55,7 +55,7 @@ contract MyToken {
 }
 ```
 
-3. Visit https://www.pinksale.finance/#/antibot, enable Pink Anti-Bot (Pay 1 BNB fee), and update your settings.
+3. Visit https://www.pinksale.finance/#/antibot, update your settings. After that please enable Pink Anti-Bot (Pay 1 BNB fee at first time)
 
 ![alt text](https://github.com/pinkmoonfinance/pink-antibot-guide/blob/main/pink-anti-bot-dashboard.png)
 
