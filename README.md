@@ -1,3 +1,11 @@
+## PinkAntiBot Contract Address:
+
+1. MAINNET: (Not release yet)
+2. BSC: 0x8EFDb3b642eb2a20607ffe0A56CFefF6a95Df002
+3. BSC_TESTNET: 0xbb06F5C7689eA93d9DeACCf4aF8546C4Fe0Bf1E5
+4. MATIC: 0x56a79881b65B03F27b088B753B6c128485642FC3
+5. KCC_MAINNET: 0x2A7F08C820f3382D38B855ba59ad26444938a2b5
+
 ## PinkAntiBot integration guide
 
 1. Add this interface to your codebase:
